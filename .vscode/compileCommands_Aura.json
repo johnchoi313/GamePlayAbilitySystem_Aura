@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\Source\\Aura\\Aura.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\Source\\Aura\\Aura.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\Source\\Aura\\Aura.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\Source\\Aura\\Private\\AuraCharacterBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\Source\\Aura\\Public\\AuraCharacterBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Projects\\Aura_UE_Version_5_3\\Aura\\.vscode\\compileCommands_Aura\\Aura.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
